@@ -24,7 +24,7 @@ Dataset Source: Keras
 ![Figure 2022-12-18 182514 (0)](https://user-images.githubusercontent.com/42896783/211400662-7f7fd69c-6d10-4492-9c82-25fc5f888c18.png)
 
 ## Frozen Dessert Production RNN Regression
-A data set is obtained from Federal Reserve Economic Data which contains data on the production of ice cream and frozen desserts. is used to fit a recurrent neural network (RNN) model with TensorFlow and Keras to predict values in a sequence and forecast future data in monthly retail sales.
+A data set is obtained from Federal Reserve Economic Data which contains data on the production of ice cream and frozen desserts. This is used to fit a recurrent neural network (RNN) model with TensorFlow and Keras to predict values in a sequence and forecast future data in monthly retail sales.
 
 Dataset Source: [Source](https://fred.stlouisfed.org/series/IPN31152N)
 
